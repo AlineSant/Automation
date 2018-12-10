@@ -6,4 +6,6 @@ puts "Meu primeiro puts"
 
 end
 
+def alterações
+end
 end
